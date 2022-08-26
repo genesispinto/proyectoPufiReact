@@ -1,0 +1,13 @@
+img {
+    width: 100%;
+    height: 300px;
+
+   }
+   .shop{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px;
+    border: 2px solid rgb(231, 226, 226);
+   }
+   
